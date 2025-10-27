@@ -1,6 +1,13 @@
+:root {
+
+  color-scheme: light dark;
+  
+  background-color: hsl(234, 88%, 75%);
+}
+
 .anime-container {
   background-color: #1f1f1f;
-  color: white;
+  color: #e75353;
   padding: 20px;
   border-radius: 15px;
   margin-top: 30px;

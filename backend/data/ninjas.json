@@ -1,5 +1,26 @@
 [
-  { "id": "1", "nombre": "Naruto", "rango": "Hokage", "aldea": "Konoha" },
-  { "id": "2", "nombre": "Sasuke", "rango": "Ninja Errante", "aldea": "Konoha" },
-  { "id": "3", "nombre": "Gaara", "rango": "Kazekage", "aldea": "Suna" }
+  {
+    "id": "1",
+    "nombre": "Naruto",
+    "rango": "Hokage",
+    "aldea": "Konoha"
+  },
+  {
+    "id": "2",
+    "nombre": "Sasuke",
+    "rango": "Ninja Errante",
+    "aldea": "Konoha"
+  },
+  {
+    "id": "3",
+    "nombre": "Gaara",
+    "rango": "Kazekage",
+    "aldea": "Suna"
+  },
+  {
+    "id": "3b513073-a924-4618-8afa-f98235234e5b",
+    "nombre": "Diego",
+    "rango": "hokage",
+    "aldea": "Konoha"
+  }
 ]

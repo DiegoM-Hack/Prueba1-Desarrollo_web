@@ -21,7 +21,7 @@ const NinjaList = () => {
 
   return (
     <div className="ninja-list">
-      <h2>🥷 Ninjas Registrados</h2>
+      <h2> Ninjas Registrados</h2>
       {ninjas.map((ninja) => (
         <div key={ninja.id} className="ninja-item">
           <span>
