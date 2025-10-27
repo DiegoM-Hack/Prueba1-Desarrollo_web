@@ -1,0 +1,89 @@
+/* === Contenedor del formulario === */
+.ninja-form {
+  background-color: #1f1f1f;
+  color: white;
+  padding: 20px;
+  border-radius: 15px;
+  margin-top: 30px;
+  max-width: 400px;
+  margin-left: auto;
+  margin-right: auto;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.ninja-form h2 {
+  font-size: 1.3rem;
+  font-weight: bold;
+  margin-bottom: 10px;
+  text-align: center;
+}
+
+.ninja-form input {
+  padding: 10px;
+  border-radius: 8px;
+  border: none;
+  font-size: 1rem;
+}
+
+.ninja-form button {
+  background-color: #2563eb;
+  color: white;
+  padding: 10px;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  font-weight: bold;
+  transition: background 0.3s ease;
+}
+
+.ninja-form button:hover {
+  background-color: #1e40af;
+}
+
+/* === Contenedor de la lista === */
+.ninja-list {
+  background-color: #111827;
+  color: white;
+  padding: 25px;
+  border-radius: 15px;
+  margin-top: 40px;
+  max-width: 600px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.ninja-list h2 {
+  font-size: 1.5rem;
+  font-weight: bold;
+  margin-bottom: 15px;
+  text-align: center;
+}
+
+/* === Cada ninja individual === */
+.ninja-item {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border-bottom: 1px solid #374151;
+  padding: 10px 0;
+}
+
+.ninja-item span {
+  font-size: 1rem;
+}
+
+.ninja-item button {
+  background-color: #dc2626;
+  color: white;
+  border: none;
+  padding: 6px 12px;
+  border-radius: 6px;
+  cursor: pointer;
+  transition: background 0.3s ease;
+}
+
+.ninja-item button:hover {
+  background-color: #991b1b;
+}

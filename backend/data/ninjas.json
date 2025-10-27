@@ -1,0 +1,5 @@
+[
+  { "id": "1", "nombre": "Naruto", "rango": "Hokage", "aldea": "Konoha" },
+  { "id": "2", "nombre": "Sasuke", "rango": "Ninja Errante", "aldea": "Konoha" },
+  { "id": "3", "nombre": "Gaara", "rango": "Kazekage", "aldea": "Suna" }
+]
